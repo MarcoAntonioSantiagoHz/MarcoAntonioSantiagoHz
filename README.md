@@ -6,7 +6,7 @@
 <h1 align="center">Hola, soy <a color: white>MarcoSantiagoHz  </a>🤖 👋</h1>
 <h2 align="center">Agradezco Tu Interes Bienvenido👋 </a>🤖 </h2>
 </div>
-<img src="https://imgur.com/KWXhiYT.png" >
+<img src="https://imgur.com/YpotvYv.png" >
 
 
 
@@ -26,7 +26,7 @@
 <div align="center">
 
 <p>
-<a href="https://github.com/MarcoAntonioSantiagoHz/BackMechanicalServiceTMS-" target="_blank"><img src="https://imgur.com/rpPx0eP.jpg" width="400" alt="Proyecto BackEnd TokesMagistralService"></a>
+<a href="https://github.com/MarcoAntonioSantiagoHz/BackMechanicalServiceTMS-" target="_blank"><img src="https://imgur.com/KWXhiYT" width="400" alt="Proyecto BackEnd TokesMagistralService"></a>
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </a>
