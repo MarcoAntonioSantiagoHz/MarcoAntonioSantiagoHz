@@ -6,8 +6,7 @@
 <h1 align="center">Hola, soy <a color: white>MarcoSantiagoHz  </a>🤖 👋</h1>
 <h2 align="center">Hola, soy <a href="https://aristi.dev">Agradezco Tu Interes Bienvenido 👋  </a>🤖 👋</h2>
 </div>
-<img src="https://imgur.com/a/gKNizyS">
-<blockquote class="imgur-embed-pub" lang="en" data-id="YpotvYv"><a href="https://imgur.com/YpotvYv">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/gallery/banner-png-gKNizyS">
 
 
 
