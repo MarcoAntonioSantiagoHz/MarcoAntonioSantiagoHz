@@ -38,9 +38,9 @@
 
 <td width="50%">
 <br>
-<h3 align="center">Retos Logica Poo</h3>
+<h3 align="center">Retos Logica Programacion Orientada A Objectos</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://imgur.com/a/sP8iPH9.png" width="400" alt="Retos Logica Poo"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://imgur.com/uftmYVB.png" width="400" alt="Retos Logica Poo"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
