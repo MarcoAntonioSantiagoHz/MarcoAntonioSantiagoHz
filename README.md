@@ -40,7 +40,7 @@
 <br>
 <h3 align="center">Retos Logica Programacion Orientada A Objectos</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://imgur.com/uftmYVB.png" width="400" alt="Retos Logica Poo"></a>
+<a href="https://github.com/MarcoAntonioSantiagoHz/Retos-POO-CSharp-Logica" target="_blank"><img src="https://imgur.com/uftmYVB.png" width="400" alt="Retos Logica Poo"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
@@ -48,6 +48,7 @@
 </a>
 
 </p>
+<p>Un conjunto de problemas y retos diseñados para mejorar la lógica de programación, <strong> implementados en C# y estructurados bajo los principios de la Programación Orientada a Objetos</strong>.</p>
 </p>Un conjunto de problemas y retos diseñados para mejorar la lógica de programación, implementados en C# y estructurados bajo los principios de la Programación Orientada a Objetos.</p>
 </div>                                                             
 </table>                                                                                 
