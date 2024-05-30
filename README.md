@@ -6,7 +6,7 @@
 <h1 align="center">Hola, soy <a color: white>MarcoSantiagoHz  </a>🤖 👋</h1>
 <h2 align="center">Agradezco Tu Interes Bienvenido👋 </a>🤖 </h2>
 </div>
-<img src="https://i.imgur.com/YpotvYv.png"style="width: 50%;">
+<img src="https://i.imgur.com/YpotvYv.png" style="height: 200px;">
 
 
 
