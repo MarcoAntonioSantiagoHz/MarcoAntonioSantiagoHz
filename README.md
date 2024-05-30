@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1 align="center">Hola, soy <a color: white>MarcoSantiagoHz  </a>🤖 👋</h1>
-<h2 align="center">Hola, soy <a href="https://aristi.dev">Agradezco Tu Interes Bienvenido 👋  </a>🤖 👋</h2>
+<h2 align="center">Agradezco Tu Interes Bienvenido👋 </a>🤖 </h2>
 </div>
 <img src="https://i.imgur.com/YpotvYv.png">
 
