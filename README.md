@@ -43,7 +43,7 @@
 <a href="https://github.com/MarcoAntonioSantiagoHz/Retos-POO-CSharp-Logica" target="_blank"><img src="https://imgur.com/uftmYVB.png" width="400" alt="Retos Logica Poo"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/MarcoAntonioSantiagoHz/Retos-POO-CSharp-Logica" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
