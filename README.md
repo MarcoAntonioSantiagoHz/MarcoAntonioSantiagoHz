@@ -26,7 +26,7 @@
 <div align="center">
 
 <p>
-<a href="https://github.com/MarcoAntonioSantiagoHz/BackMechanicalServiceTMS-" target="_blank">
+<a href="https://github.com/MarcoAntonioSantiagoHz/BackMechanicalServiceTMS-" target="_blank"><img src="https://imgur.com/rpPx0eP.jpg" width="400" alt="Proyecto BackEnd TokesMagistralService"></a>
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </a>
