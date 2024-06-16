@@ -59,7 +59,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Demuestro EL Cayo</h3>
+<h3 align="center">Proyecto FrontEnd TechMegaStore</h3>
 <div align="center">
 <a href="https://github.com/MarcoAntonioSantiagoHz/BackMechanicalServiceTMS-" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
 <p>
