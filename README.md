@@ -65,7 +65,7 @@
       <div align="center">
         <p>
           <a href="https://github.com/MarcoAntonioSantiagoHz/BackEndTechMegastore" target="_blank">
-            <img src="https://imgur.com/sqaVp9H.png" width="400" alt="Proyecto BackEnd TechMegaStore">
+            <img src="https://imgur.com/LUc7iWd.png" width="400" alt="Proyecto BackEnd TechMegaStore">
           </a>
         </p>
         <p>
