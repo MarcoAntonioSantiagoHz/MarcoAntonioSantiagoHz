@@ -3,19 +3,33 @@
 </div>
 
 <div align="center">
-  <img src="https://imgur.com/YpotvYv.png" alt="TechMegaStore">
+  <img src="https://imgur.com/YpotvYv.png" alt="profile">
 </div>
 
 <div align="center">
   <h2>Sobre mí</h2>
+  <strong>Hola! Ven y conoceme!!
+soy un desarrollador del cual creo firmemente en la importancia de trabajar en unión para lograr resultados excepcionales. 
+Además, cuento con conocimientos y habilidades en software que me impulsan constantemente a crecer tecnológicamente. 
+Mi compromiso con la mejora continua me lleva a buscar tenazmente desafíos que me permitan crecer tanto en el ámbito laboral como profesional.
+  </strong>
+  
+  
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
   <ul>
     <li>⭐ Github Star ⭐</li>
     <li>📲 Developer</li>
   </ul>
 </div>
-
+  <br>
+  <br>
 <h2 align="center">Proyectos</h2>
-
+ <br>
+  <br>
 <table width="100%">
   <tr>
     <td width="50%">
