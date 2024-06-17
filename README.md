@@ -61,7 +61,7 @@
       <h3 align="center">Proyecto BackEnd TechMegaStore</h3>
       <div align="center">
         <a href="https://github.com/MarcoAntonioSantiagoHz/BackEndTechMegastore" target="_blank">
-          <img src="https://imgur.com/faA4YV5.png" width="400" alt="Proyecto BackEnd TechMegaStore">
+          <img src="https://imgur.com/ASREjs0.png" width="400" alt="Proyecto BackEnd TechMegaStore">
         </a>
         <p>
           <a href="https://github.com/MarcoAntonioSantiagoHz/BackEndTechMegastore" target="_blank">
