@@ -20,10 +20,30 @@ Mi compromiso con la mejora continua me lleva a buscar tenazmente desafíos que 
   <br>
   <br>
   <br>
-  <ul>
-    <li>⭐ Github Star ⭐</li>
-    <li>📲 Developer</li>
-  </ul>
+<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; margin-top:1rem;">
+    <span style="background:#ffdd57; color:#000; padding:5px 10px; border-radius:20px; font-weight:600;">⭐ GitHub Star</span>
+    <span style="background:#4caf50; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">📲 Developer</span>
+    <span style="background:#2196f3; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">💻 Full Stack</span>
+   <span style="background:#795548; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🛠️ BackEnd</span>
+    <span style="background:#009688; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🛠️ FrontEnd</span>
+    <span style="background:#673ab7; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🌐 Web Development</span>
+    <span style="background:#9c27b0; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">📊 Análisis de Datos</span>
+    <span style="background:#f44336; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">⚡ .NET & C#</span>
+    <span style="background:#f44336; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">⚡ Java</span>
+    <span style="background:#007bff; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">TypeScript</span>
+    <span style="background:#007bff; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🅰️ Angular</span>
+    <span style="background:#00bcd4; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">☁️ Cloud / DevOps</span>
+    <span style="background:#ff9800; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">☁️ Serverless</span>
+    <span style="background:#3f51b5; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">☁️ AWS</span>
+    <span style="background:#e91e63; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">📱 Flutter</span>
+    <span style="background:#607d8b; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🗄️ SQL Relational</span>
+    <span style="background:#ff5722; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🐘 Laravel</span>
+    <span style="background:#795548; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🐘 PHP</span>
+    <span style="background:#607d8b; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🔒 JWT / Seguridad</span>
+</div>
+
+
+
 </div>
   <br>
   <br>
