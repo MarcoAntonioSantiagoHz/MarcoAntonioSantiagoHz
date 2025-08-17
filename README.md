@@ -58,7 +58,7 @@ Mi compromiso con la mejora continua me lleva a buscar tenazmente desafíos que 
       <div align="center">
         <p>
           <a href="https://github.com/MarcoAntonioSantiagoHz/Retos-POO-CSharp-Logica" target="_blank">
-            <img src="https://imgur.com/uftmYVB.png" width="400" alt="Retos Lógica POO">
+            <img src="https://i.postimg.cc/yxWXpVTz/programming.png" width="400" alt="Retos Lógica POO">
           </a>
         </p>
         <p>
