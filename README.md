@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://imgur.com/YpotvYv.png" alt="profile">
+  <img src="https://i.postimg.cc/qRP94ZDS/banner.png" alt="profile">
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@ Mi compromiso con la mejora continua me lleva a buscar tenazmente desafíos que 
       <div align="center">
         <p>
           <a href="https://github.com/MarcoAntonioSantiagoHz/BackMechanicalServiceTMS-" target="_blank">
-            <img src="assets/logo-service.png" width="400" alt="Proyecto BackEnd TokesMagistralService">
+            <img src="https://i.postimg.cc/Px3B951X/logo-service.png" width="400" alt="Proyecto BackEnd TokesMagistralService">
           </a>
         </p>
         <p>
