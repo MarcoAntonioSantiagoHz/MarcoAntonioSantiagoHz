@@ -37,7 +37,7 @@ Mi compromiso con la mejora continua me lleva a buscar tenazmente desafíos que 
       <div align="center">
         <p>
           <a href="https://github.com/MarcoAntonioSantiagoHz/BackMechanicalServiceTMS-" target="_blank">
-            <img src="https://imgur.com/KWXhiYT.png" width="400" alt="Proyecto BackEnd TokesMagistralService">
+            <img src="assets/logo-service.png" width="400" alt="Proyecto BackEnd TokesMagistralService">
           </a>
         </p>
         <p>
