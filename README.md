@@ -118,9 +118,15 @@ Mi compromiso con la mejora continua me lleva a buscar tenazmente desafíos que 
 </div>
   <br>
   <br>
-<h2 align="center">Proyectos</h2>
- <br>
-  <br>
+
+
+
+
+
+
+  <h2 align="center">Proyectos</h2>
+<br><br>
+
 <table width="100%">
   <tr>
     <td width="50%">
@@ -137,15 +143,33 @@ Mi compromiso con la mejora continua me lleva a buscar tenazmente desafíos que 
           </a>
         </p>
         <p>
-          Este proyecto es una aplicación de servicios mecánicos automotrices <strong>diseñada con una arquitectura de
-            microservicios.</strong> Permite la gestión de usuarios, clientes y vehículos, <strong>ofreciendo
-            funcionalidades CRUD a través de una Web API desarrollada en .NET Core.</strong> La seguridad se implementa
-          mediante JWT (JSON Web Tokens) para la autenticación y autorización.
+          Aplicación de servicios mecánicos automotrices <strong>diseñada con microservicios.</strong> Gestión de usuarios, clientes y vehículos con <strong>CRUD vía Web API en .NET Core</strong>. Seguridad mediante JWT.
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Retos Lógica Programación Orientada a Objetos</h3>
+      <h3 align="center">Proyecto BackEnd ApiRest Pacientes</h3>
+      <div align="center">
+        <p>
+          <a href="https://github.com/MarcoAntonioSantiagoHz/API-Rest-Patient" target="_blank">
+            <img src="https://i.postimg.cc/m2DrbMR1/cpia.png" width="400" alt="Proyecto BackEnd ApiRest">
+          </a>
+        </p>
+        <p>
+          <a href="https://github.com/MarcoAntonioSantiagoHz/API-Rest-Patient" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p>
+         Proyecto creado con Node.js y Express sobre SQLite, que permite crear, visualizar, editar y eliminar pacientes. Utiliza EJS en el frontend y backend siguiendo arquitectura MVC, donde los controladores manejan la validación y operaciones sobre SQLite, garantizando la persistencia de datos.
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">Retos Lógica POO</h3>
       <div align="center">
         <p>
           <a href="https://github.com/MarcoAntonioSantiagoHz/Retos-POO-CSharp-Logica" target="_blank">
@@ -158,13 +182,10 @@ Mi compromiso con la mejora continua me lleva a buscar tenazmente desafíos que 
           </a>
         </p>
         <p>
-          Un conjunto de problemas y retos diseñados para mejorar la lógica de programación, <strong>implementados en
-          C# y estructurados bajo los principios de la Programación Orientada a Objetos.</strong>
+          Retos para mejorar la lógica de programación, <strong>implementados en C# y POO.</strong>
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">Proyecto BackEnd TechMegaStore</h3>
       <div align="center">
@@ -179,15 +200,15 @@ Mi compromiso con la mejora continua me lleva a buscar tenazmente desafíos que 
           </a>
         </p>
         <p>
-          Plataforma de gestión para TechMegastore, gestión y venta de aparatos tecnológicos. Implementado en .NET 8
-          <strong>con microservicios para autenticación, catálogo, clientes, inventario y ventas.</strong> Asegura
-          seguridad, experiencia personalizada y operación eficiente, con todo el código disponible para descargar.
+          Gestión y venta de aparatos tecnológicos con microservicios en .NET 8. Seguridad, experiencia personalizada y operación eficiente.
         </p>
       </div>
     </td>
+  </tr>
+
+  <tr>
     <td width="50%">
-      <!-- Aquí puedes colocar el cuarto proyecto si lo tienes -->
-     <h3 align="center">Proyecto FrontEnd TechMegaStore</h3>
+      <h3 align="center">Proyecto FrontEnd TechMegaStore</h3>
       <div align="center">
         <p>
           <a href="https://github.com/MarcoAntonioSantiagoHz/FrontEndTechMegastore" target="_blank">
@@ -200,9 +221,11 @@ Mi compromiso con la mejora continua me lleva a buscar tenazmente desafíos que 
           </a>
         </p>
         <p>
-        Este proyecto es un Sistema de Ventas desarrollado con Angular y TypeScript que ofrece una solución completa para la gestión de ventas.<strong>Con una interfaz dinámica y amigable, .</strong>
-       proporciona diversas funcionalidades para optimizar la experiencia del usuario.</p>
+          Sistema de ventas en Angular y TypeScript con interfaz dinámica y funcionalidades completas para la gestión de ventas.
+        </p>
       </div>
     </td>
+    
   </tr>
 </table>
+
