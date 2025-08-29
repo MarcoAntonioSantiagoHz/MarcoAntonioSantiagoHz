@@ -5,14 +5,13 @@
 <div align="center">
   <img src="https://i.postimg.cc/qRP94ZDS/banner.png" alt="profile">
 </div>
-
-<div align="center">
-  <h2>Sobre mí</h2>
-  <strong>Hola! Ven y conoceme!!
-soy un desarrollador del cual creo firmemente en la importancia de trabajar en unión para lograr resultados excepcionales. 
+<h2>Hola !</h2>
+<p>
+Soy un desarrollador del cual creo firmemente en la importancia de trabajar en unión para lograr resultados excepcionales. 
 Además, cuento con conocimientos y habilidades en software que me impulsan constantemente a crecer tecnológicamente. 
 Mi compromiso con la mejora continua me lleva a buscar tenazmente desafíos que me permitan crecer tanto en el ámbito laboral como profesional.
-  </strong>
+</p>
+
   
   
   <br>
@@ -20,27 +19,107 @@ Mi compromiso con la mejora continua me lleva a buscar tenazmente desafíos que 
   <br>
   <br>
   <br>
-<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; margin-top:1rem;">
-    <span style="background:#ffdd57; color:#000; padding:5px 10px; border-radius:20px; font-weight:600;">⭐ GitHub Star</span>
-    <span style="background:#4caf50; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">📲 Developer</span>
-    <span style="background:#2196f3; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">💻 Full Stack</span>
-   <span style="background:#795548; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🛠️ BackEnd</span>
-    <span style="background:#009688; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🛠️ FrontEnd</span>
-    <span style="background:#673ab7; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🌐 Web Development</span>
-    <span style="background:#9c27b0; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">📊 Análisis de Datos</span>
-    <span style="background:#f44336; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">⚡ .NET & C#</span>
-    <span style="background:#f44336; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">⚡ Java</span>
-    <span style="background:#007bff; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">TypeScript</span>
-    <span style="background:#007bff; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🅰️ Angular</span>
-    <span style="background:#00bcd4; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">☁️ Cloud / DevOps</span>
-    <span style="background:#ff9800; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">☁️ Serverless</span>
-    <span style="background:#3f51b5; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">☁️ AWS</span>
-    <span style="background:#e91e63; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">📱 Flutter</span>
-    <span style="background:#607d8b; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🗄️ SQL Relational</span>
-    <span style="background:#ff5722; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🐘 Laravel</span>
-    <span style="background:#795548; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🐘 PHP</span>
-    <span style="background:#607d8b; color:white; padding:5px 10px; border-radius:20px; font-weight:600;">🔒 JWT / Seguridad</span>
+  <h2 align="center">Habilidades Técnicas</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/><br>
+        <strong>Java</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/><br>
+        <strong>C#</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" alt=".NET"/><br>
+        <strong>.NET</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50" alt="Angular"/><br>
+        <strong>Angular</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/><br>
+        <strong>TypeScript</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/><br>
+        <strong>MySQL</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP"/><br>
+        <strong>PHP</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="50" alt="Laravel"/><br>
+        <strong>Laravel</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" alt="Flutter"/><br>
+        <strong>Flutter</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" alt="AWS"/><br>
+        <strong>AWS</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/><br>
+        <strong>Node.js</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="50" alt="Bitbucket"/><br>
+        <strong>Bitbucket</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" alt="SQLite"/><br>
+        <strong>SQLite</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/><br>
+        <strong>PostgreSQL</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/><br>
+        <strong>JavaScript</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="50" alt="Postman"/><br>
+        <strong>Postman</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="50" alt="Swagger"/><br>
+        <strong>Swagger</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" alt="Firebase"/><br>
+        <strong>Firebase</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/><br>
+        <strong>Bootstrap</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/><br>
+        <strong>Git</strong>
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+
+
+
+
+
+
 
 
 
