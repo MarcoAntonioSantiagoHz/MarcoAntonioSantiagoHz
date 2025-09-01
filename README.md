@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/>Bienvenid@ a mi GitHub. Soy Marco A. Hernández, descubre mis proyectos y experiencia en programación.
+# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="150"/>Bienvenid@ a mi GitHub. Soy Marco A. Hernández, descubre mis proyectos y experiencia en programación.
 ![Banner de marcoDev](banner-codeDm.png)
 ### Redes Sociales 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-antonio-santiago-hernandez-636180265/)
