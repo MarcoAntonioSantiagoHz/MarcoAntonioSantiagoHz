@@ -84,17 +84,17 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
   </td>
 
   <td width="50%" valign="top" align="center">
-    <h3>Proyecto App Movil Flutter</h3>
+    <h3>Proyecto App Movil CRUD Service Flutter</h3>
     <a href="flutter.png" target="_blank">
       <img src="flutter.png" width="100%" alt="Proyecto App Movil Flutter">
     </a>
     <p>
-      <a href="https://github.com/MarcoAntonioSantiagoHz/FlutterAppProject" target="_blank">
+      <a href="https://github.com/MarcoAntonioSantiagoHz/ServiceRestPhoto" target="_blank">
         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>
-      Aplicación móvil creada en Flutter con gestión de usuarios, base de datos local y conexión a APIs externas.
+      ServiceRestPhoto es una aplicación móvil desarrollada en Flutter que permite subir, listar y eliminar fotos a través de un servicio REST.
     </p>
   </td>
 </tr>
