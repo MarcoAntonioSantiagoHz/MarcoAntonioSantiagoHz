@@ -65,105 +65,108 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
 <h2 align="center">Proyectos</h2>
 <br><br>
 
-<div style="display:flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
-
-  <!-- Proyecto 1 -->
-  <div style="width: 30%; text-align:center;">
-    <h3>Proyecto App Movil CRUD Servicios Rest</h3>
-    <a href="flutter.png" target="_blank">
-      <img src="flutter.png" width="100%" alt="Proyecto App Movil CRUD Servicios Rest">
-    </a>
-    <p>
-      <a href="https://github.com/MarcoAntonioSantiagoHz/ServiceRestPhoto" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<table width="100%">
+  <!-- Fila 1 -->
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>Proyecto App Movil Flutter</h3>
+      <a href="flutter.png" target="_blank">
+        <img src="flutter.png" width="100%" alt="Proyecto App Movil Flutter">
       </a>
-    </p>
-    <p>
-      CRUD Serviciso Rest Push, Cámara, Mapas, REST API, SQLite, CRUD, Tokens, Storage, Preferencias de usuario, Bloc y más!
-    </p>
-  </div>
+      <p>
+        <a href="https://github.com/MarcoAntonioSantiagoHz/FlutterAppProject" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>
+        Aplicación móvil creada en Flutter con gestión de usuarios, base de datos local y conexión a APIs externas.
+      </p>
+    </td>
+    <td width="50%"></td>
+  </tr>
 
-  <!-- Proyecto 2 -->
-  <div style="width: 30%; text-align:center;">
-    <h3>Proyecto BackEnd TokesMagistralService</h3>
-    <a href="toks.png" target="_blank">
-      <img src="toks.png" width="100%" alt="Proyecto BackEnd TokesMagistralService">
-    </a>
-    <p>
-      <a href="https://github.com/MarcoAntonioSantiagoHz/BackMechanicalServiceTMS-" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+  <!-- Fila 2 -->
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>Proyecto BackEnd TokesMagistralService</h3>
+      <a href="toks.png" target="_blank">
+        <img src="toks.png" width="100%" alt="Proyecto BackEnd TokesMagistralService">
       </a>
-    </p>
-    <p>
-      Aplicación de servicios mecánicos automotrices <strong>diseñada con microservicios.</strong> Gestión de usuarios, clientes y vehículos con <strong>CRUD vía Web API en .NET Core</strong>. Seguridad mediante JWT.
-    </p>
-  </div>
-
-  <!-- Proyecto 3 -->
-  <div style="width: 30%; text-align:center;">
-    <h3>Proyecto BackEnd ApiRest Pacientes</h3>
-    <a href="apiNode.png" target="_blank">
-      <img src="apiNode.png" width="100%" alt="Proyecto BackEnd ApiRest">
-    </a>
-    <p>
-      <a href="https://github.com/MarcoAntonioSantiagoHz/API-Rest-Patient" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+      <p>
+        <a href="https://github.com/MarcoAntonioSantiagoHz/BackMechanicalServiceTMS-" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>
+        Aplicación de servicios mecánicos automotrices <strong>diseñada con microservicios.</strong> Gestión de usuarios, clientes y vehículos con <strong>CRUD vía Web API en .NET Core</strong>. Seguridad mediante JWT.
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>Proyecto BackEnd ApiRest Pacientes</h3>
+      <a href="apiNode.png" target="_blank">
+        <img src="apiNode.png" width="100%" alt="Proyecto BackEnd ApiRest">
       </a>
-    </p>
-    <p>
-      Proyecto creado con Node.js y Express sobre SQLite, que permite crear, visualizar, editar y eliminar pacientes. Utiliza EJS en el frontend y backend siguiendo arquitectura MVC.
-    </p>
-  </div>
+      <p>
+        <a href="https://github.com/MarcoAntonioSantiagoHz/API-Rest-Patient" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>
+        Proyecto creado con Node.js y Express sobre SQLite, que permite crear, visualizar, editar y eliminar pacientes. Utiliza EJS en el frontend y backend siguiendo arquitectura MVC.
+      </p>
+    </td>
+  </tr>
 
-  <!-- Proyecto 4 -->
-  <div style="width: 30%; text-align:center;">
-    <h3>Retos Lógica POO</h3>
-    <a href="poo.png" target="_blank">
-      <img src="poo.png" width="100%" alt="Retos Lógica POO">
-    </a>
-    <p>
-      <a href="https://github.com/MarcoAntonioSantiagoHz/Retos-POO-CSharp-Logica" target="_blank">
-        <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+  <!-- Fila 3 -->
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>Retos Lógica POO</h3>
+      <a href="poo.png" target="_blank">
+        <img src="poo.png" width="100%" alt="Retos Lógica POO">
       </a>
-    </p>
-    <p>
-      Retos para mejorar la lógica de programación, <strong>implementados en C# y POO.</strong>
-    </p>
-  </div>
-
-  <!-- Proyecto 5 -->
-  <div style="width: 30%; text-align:center;">
-    <h3>Proyecto BackEnd TechMegaStore</h3>
-    <a href="api-tech.png" target="_blank">
-      <img src="api-tech.png" width="100%" alt="Proyecto BackEnd TechMegaStore">
-    </a>
-    <p>
-      <a href="https://github.com/MarcoAntonioSantiagoHz/BackEndTechMegastore" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+      <p>
+        <a href="https://github.com/MarcoAntonioSantiagoHz/Retos-POO-CSharp-Logica" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>
+        Retos para mejorar la lógica de programación, <strong>implementados en C# y POO.</strong>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>Proyecto BackEnd TechMegaStore</h3>
+      <a href="api-tech.png" target="_blank">
+        <img src="api-tech.png" width="100%" alt="Proyecto BackEnd TechMegaStore">
       </a>
-    </p>
-    <p>
-      Gestión y venta de aparatos tecnológicos con microservicios en .NET 8. Seguridad, experiencia personalizada y operación eficiente.
-    </p>
-  </div>
+      <p>
+        <a href="https://github.com/MarcoAntonioSantiagoHz/BackEndTechMegastore" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>
+        Gestión y venta de aparatos tecnológicos con microservicios en .NET 8. Seguridad, experiencia personalizada y operación eficiente.
+      </p>
+    </td>
+  </tr>
 
-  <!-- Proyecto 6 -->
-  <div style="width: 30%; text-align:center;">
-    <h3>Proyecto FrontEnd TechMegaStore</h3>
-    <a href="front-tech.png" target="_blank">
-      <img src="front-tech.png" width="100%" alt="Proyecto FrontEnd TechMegaStore">
-    </a>
-    <p>
-      <a href="https://github.com/MarcoAntonioSantiagoHz/FrontEndTechMegastore" target="_blank">
-        <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+  <!-- Fila 4 -->
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>Proyecto FrontEnd TechMegaStore</h3>
+      <a href="front-tech.png" target="_blank">
+        <img src="front-tech.png" width="100%" alt="Proyecto FrontEnd TechMegaStore">
       </a>
-    </p>
-    <p>
-      Sistema de ventas en Angular y TypeScript con interfaz dinámica y funcionalidades completas para la gestión de ventas.
-    </p>
-  </div>
-
-</div>
-
+      <p>
+        <a href="https://github.com/MarcoAntonioSantiagoHz/FrontEndTechMegastore" target="_blank">
+          <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>
+        Sistema de ventas en Angular y TypeScript con interfaz dinámica y funcionalidades completas para la gestión de ventas.
+      </p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 
