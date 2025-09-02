@@ -61,7 +61,6 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-
 <h2 align="center">Proyectos</h2>
 <br><br>
 
@@ -82,9 +81,10 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
        Aplicación móvil en Flutter que consume APIs de forma asíncrona y muestra noticias en tiempo real organizadas por categorías.
       </p>
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top" align="center">&nbsp;</td>
   </tr>
-    <!-- Fila 1 -->
+
+  <!-- Fila 1 -->
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>Proyecto App Movil Flutter</h3>
@@ -100,7 +100,7 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
         Aplicación móvil creada en Flutter con gestión de usuarios, base de datos local y conexión a APIs externas.
       </p>
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top" align="center">&nbsp;</td>
   </tr>
 
   <!-- Fila 2 -->
@@ -183,7 +183,7 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
         Sistema de ventas en Angular y TypeScript con interfaz dinámica y funcionalidades completas para la gestión de ventas.
       </p>
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top" align="center">&nbsp;</td>
   </tr>
 </table>
 
