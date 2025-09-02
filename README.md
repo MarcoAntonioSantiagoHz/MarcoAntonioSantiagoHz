@@ -66,42 +66,39 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
 
 <table width="100%">
   <!-- Fila 0 -->
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>Proyecto App Movil Noticias Api</h3>
-      <a href="flutter-news.png" target="_blank">
-        <img src="flutter-news.png" width="100%" alt="Proyecto App Movil Flutter">
+<!-- Fila Flutter -->
+<tr>
+  <td width="50%" valign="top" align="center">
+    <h3>Proyecto App Movil Noticias Api</h3>
+    <a href="flutter-news.png" target="_blank">
+      <img src="flutter-news.png" width="100%" alt="Proyecto App Movil Flutter">
+    </a>
+    <p>
+      <a href="https://github.com/MarcoAntonioSantiagoHz/appNewsFlutter/tree/master" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
-      <p>
-        <a href="https://github.com/MarcoAntonioSantiagoHz/appNewsFlutter/tree/master" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-      </p>
-      <p>
-       Aplicación móvil en Flutter que consume APIs de forma asíncrona y muestra noticias en tiempo real organizadas por categorías.
-      </p>
-    </td>
-    <td width="50%" valign="top" align="center">&nbsp;</td>
-  </tr>
+    </p>
+    <p>
+      Aplicación móvil en Flutter que consume APIs de forma asíncrona y muestra noticias en tiempo real organizadas por categorías.
+    </p>
+  </td>
 
-  <!-- Fila 1 -->
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>Proyecto App Movil Flutter</h3>
-      <a href="flutter.png" target="_blank">
-        <img src="flutter.png" width="100%" alt="Proyecto App Movil Flutter">
+  <td width="50%" valign="top" align="center">
+    <h3>Proyecto App Movil Flutter</h3>
+    <a href="flutter.png" target="_blank">
+      <img src="flutter.png" width="100%" alt="Proyecto App Movil Flutter">
+    </a>
+    <p>
+      <a href="https://github.com/MarcoAntonioSantiagoHz/FlutterAppProject" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
-      <p>
-        <a href="https://github.com/MarcoAntonioSantiagoHz/FlutterAppProject" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-        </a>
-      </p>
-      <p>
-        Aplicación móvil creada en Flutter con gestión de usuarios, base de datos local y conexión a APIs externas.
-      </p>
-    </td>
-    <td width="50%" valign="top" align="center">&nbsp;</td>
-  </tr>
+    </p>
+    <p>
+      Aplicación móvil creada en Flutter con gestión de usuarios, base de datos local y conexión a APIs externas.
+    </p>
+  </td>
+</tr>
+
 
   <!-- Fila 2 -->
   <tr>
