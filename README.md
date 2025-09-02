@@ -66,7 +66,25 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
 <br><br>
 
 <table width="100%">
-  <!-- Fila 1 -->
+  <!-- Fila 0 -->
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>Proyecto App Movil Noticias Api</h3>
+      <a href="flutter-news.png" target="_blank">
+        <img src="flutter-news.png" width="100%" alt="Proyecto App Movil Flutter">
+      </a>
+      <p>
+        <a href="https://github.com/MarcoAntonioSantiagoHz/appNewsFlutter/tree/master" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>
+       Aplicación móvil en Flutter que consume APIs de forma asíncrona y muestra noticias en tiempo real organizadas por categorías.
+      </p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+    <!-- Fila 1 -->
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>Proyecto App Movil Flutter</h3>
