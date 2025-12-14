@@ -196,9 +196,8 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
 <tr>
   <td width="50%" valign="top" align="center">
     <h3>Proyecto FrontEnd Expense Manager</h3>
-    <a href="frontend-expense.png" target="_blank">
+    <a href="https://i.ibb.co/xyz123/frontend-expense.png" target="_blank">
       <img src="https://i.ibb.co/xyz123/frontend-expense.png" width="100%" alt="Proyecto FrontEnd Expense Manager">
->
     </a>
     <p>
       <a href="https://github.com/MarcoAntonioSantiagoHz/FrontEnd-Expense-Manager" target="_blank">
@@ -211,8 +210,8 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
   </td>
   <td width="50%" valign="top" align="center">
     <h3>Proyecto BackEnd Python Django Expense Manager</h3>
-    <a href="backend-expense.png" target="_blank">
-      <img src="https://ibb.co/kgh47nW7" width="100%" alt="Proyecto BackEnd Django Expense Manager">
+    <a href="https://i.ibb.co/abc456/backend-expense.png" target="_blank">
+      <img src="https://i.ibb.co/abc456/backend-expense.png" width="100%" alt="Proyecto BackEnd Django Expense Manager">
     </a>
     <p>
       <a href="https://github.com/MarcoAntonioSantiagoHz/BackEnd-Python-Django-Expense-Manager" target="_blank">
@@ -224,6 +223,7 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
     </p>
   </td>
 </tr>
+
 
 </table>
 
