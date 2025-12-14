@@ -211,7 +211,7 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
   <td width="50%" valign="top" align="center">
     <h3>Proyecto BackEnd Python Django Expense Manager</h3>
     <a href="backend-expense.png" target="_blank">
-      <img src="backend-expense.png" width="100%" alt="Proyecto BackEnd Django Expense Manager">
+      <img src="https://ibb.co/kgh47nW7" width="100%" alt="Proyecto BackEnd Django Expense Manager">
     </a>
     <p>
       <a href="https://github.com/MarcoAntonioSantiagoHz/BackEnd-Python-Django-Expense-Manager" target="_blank">
