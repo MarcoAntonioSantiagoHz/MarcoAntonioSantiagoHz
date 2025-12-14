@@ -72,43 +72,44 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
 <h2 align="center">Proyectos</h2>
 <br><br>
 
+<h2 align="center">Proyectos</h2>
+<br><br>
+
 <table width="100%">
   <!-- Fila 0 -->
-<!-- Fila Flutter -->
-<tr>
-  <td width="50%" valign="top" align="center">
-    <h3>Proyecto App Movil Noticias Api</h3>
-    <a href="flutter-news.png" target="_blank">
-      <img src="flutter-news.png" width="100%" alt="Proyecto App Movil Flutter">
-    </a>
-    <p>
-      <a href="https://github.com/MarcoAntonioSantiagoHz/appNewsFlutter/tree/master" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>Proyecto App Movil Noticias Api</h3>
+      <a href="flutter-news.png" target="_blank">
+        <img src="flutter-news.png" width="100%" alt="Proyecto App Movil Flutter">
       </a>
-    </p>
-    <p>
-      Aplicación móvil en Flutter que consume APIs de forma asíncrona y muestra noticias en tiempo real organizadas por categorías.
-    </p>
-  </td>
+      <p>
+        <a href="https://github.com/MarcoAntonioSantiagoHz/appNewsFlutter/tree/master" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>
+        Aplicación móvil en Flutter que consume APIs de forma asíncrona y muestra noticias en tiempo real organizadas por categorías.
+      </p>
+    </td>
 
-  <td width="50%" valign="top" align="center">
-    <h3>Proyecto App Movil CRUD Service Flutter</h3>
-    <a href="flutter.png" target="_blank">
-      <img src="flutter.png" width="100%" alt="Proyecto App Movil Flutter">
-    </a>
-    <p>
-      <a href="https://github.com/MarcoAntonioSantiagoHz/ServiceRestPhoto" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+    <td width="50%" valign="top" align="center">
+      <h3>Proyecto App Movil CRUD Service Flutter</h3>
+      <a href="flutter.png" target="_blank">
+        <img src="flutter.png" width="100%" alt="Proyecto App Movil Flutter">
       </a>
-    </p>
-    <p>
-      ServiceRestPhoto es una aplicación móvil desarrollada en Flutter que permite subir, listar y eliminar fotos a través de un servicio REST.
-    </p>
-  </td>
-</tr>
+      <p>
+        <a href="https://github.com/MarcoAntonioSantiagoHz/ServiceRestPhoto" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>
+        ServiceRestPhoto es una aplicación móvil desarrollada en Flutter que permite subir, listar y eliminar fotos a través de un servicio REST.
+      </p>
+    </td>
+  </tr>
 
-
-  <!-- Fila 2 -->
+  <!-- Fila 1 -->
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>Proyecto BackEnd TokesMagistralService</h3>
@@ -124,6 +125,7 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
         Aplicación de servicios mecánicos automotrices <strong>diseñada con microservicios.</strong> Gestión de usuarios, clientes y vehículos con <strong>CRUD vía Web API en .NET Core</strong>. Seguridad mediante JWT.
       </p>
     </td>
+
     <td width="50%" valign="top" align="center">
       <h3>Proyecto BackEnd ApiRest Pacientes</h3>
       <a href="apiNode.png" target="_blank">
@@ -140,7 +142,7 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
     </td>
   </tr>
 
-  <!-- Fila 3 -->
+  <!-- Fila 2 -->
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>Retos Lógica POO</h3>
@@ -156,6 +158,7 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
         Retos para mejorar la lógica de programación, <strong>implementados en C# y POO.</strong>
       </p>
     </td>
+
     <td width="50%" valign="top" align="center">
       <h3>Proyecto BackEnd TechMegaStore</h3>
       <a href="api-tech.png" target="_blank">
@@ -172,7 +175,7 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
     </td>
   </tr>
 
-  <!-- Fila 4 -->
+  <!-- Fila 3 -->
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>Proyecto FrontEnd TechMegaStore</h3>
@@ -188,41 +191,47 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
         Sistema de ventas en Angular y TypeScript con interfaz dinámica y funcionalidades completas para la gestión de ventas.
       </p>
     </td>
-    <td width="50%" valign="top" align="center">&nbsp;</td>
+
+    <td width="50%" valign="top" align="center" colspan="2">
+      <!-- Esta celda estaba vacía, ahora no hay espacio -->
+    </td>
   </tr>
 
+  <!-- Fila 4 -->
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>Proyecto FrontEnd Expense Manager</h3>
+      <a href="https://i.postimg.cc/9FPZB5WF/Back-End.png" target="_blank">
+        <img src="https://i.postimg.cc/9FPZB5WF/Back-End.png" width="100%" alt="Proyecto FrontEnd Expense Manager">
+      </a>
+      <p>
+        <a href="https://github.com/MarcoAntonioSantiagoHz/FrontEnd-Expense-Manager" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>
+        Aplicación Frontend para gestionar gastos y pagos de manera intuitiva, interactuando con una API para la gestión de transacciones.
+      </p>
+    </td>
 
-  <!-- Fila 5 -->
-<tr>
-  <td width="50%" valign="top" align="center">
-    <h3>Proyecto FrontEnd Expense Manager</h3>
-    <a href="https://i.postimg.cc/9FPZB5WF/Back-End.png" target="_blank">
-      <img src="https://i.postimg.cc/9FPZB5WF/Back-End.png" width="100%" alt="Proyecto FrontEnd Expense Manager">
-    </a>
-    <p>
-      <a href="https://github.com/MarcoAntonioSantiagoHz/FrontEnd-Expense-Manager" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+    <td width="50%" valign="top" align="center">
+      <h3>Proyecto BackEnd Python Django Expense Manager</h3>
+      <a href="https://i.postimg.cc/MHPDt7Y1/6.png" target="_blank">
+        <img src="https://i.postimg.cc/MHPDt7Y1/6.png" width="100%" alt="Proyecto BackEnd Django Expense Manager">
       </a>
-    </p>
-    <p>
-      Aplicación Frontend para gestionar gastos y pagos de manera intuitiva, interactuando con una API para la gestión de transacciones.
-    </p>
-  </td>
-  <td width="50%" valign="top" align="center">
-    <h3>Proyecto BackEnd Python Django Expense Manager</h3>
-    <a href="https://i.postimg.cc/MHPDt7Y1/6.png" target="_blank">
-      <img src="https://i.postimg.cc/MHPDt7Y1/6.png" width="100%" alt="Proyecto BackEnd Django Expense Manager">
-    </a>
-    <p>
-      <a href="https://github.com/MarcoAntonioSantiagoHz/BackEnd-Python-Django-Expense-Manager" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-    </p>
-    <p>
-      Backend desarrollado en Django con Django REST Framework y SQL Server para registrar y gestionar gastos y pagos de una empresa. Incluye API, modelos, serializadores y servicios de negocio.
-    </p>
-  </td>
-</tr>
+      <p>
+        <a href="https://github.com/MarcoAntonioSantiagoHz/BackEnd-Python-Django-Expense-Manager" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>
+        Backend desarrollado en Django con Django REST Framework y SQL Server para registrar y gestionar gastos y pagos de una empresa. Incluye API, modelos, serializadores y servicios de negocio.
+      </p>
+    </td>
+  </tr>
+
+</table>
+
 
 
 
