@@ -196,8 +196,8 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
 <tr>
   <td width="50%" valign="top" align="center">
     <h3>Proyecto FrontEnd Expense Manager</h3>
-    <a href="https://i.ibb.co/xyz123/frontend-expense.png" target="_blank">
-      <img src="https://i.ibb.co/xyz123/frontend-expense.png" width="100%" alt="Proyecto FrontEnd Expense Manager">
+    <a href="https://i.postimg.cc/XXXXXXXX/frontend-expense.png" target="_blank">
+      <img src="https://i.postimg.cc/XXXXXXXX/frontend-expense.png" width="100%" alt="Proyecto FrontEnd Expense Manager">
     </a>
     <p>
       <a href="https://github.com/MarcoAntonioSantiagoHz/FrontEnd-Expense-Manager" target="_blank">
@@ -210,8 +210,8 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
   </td>
   <td width="50%" valign="top" align="center">
     <h3>Proyecto BackEnd Python Django Expense Manager</h3>
-    <a href="https://i.ibb.co/JR3wWbv/backend-expense.png" target="_blank">
-      <img src="https://i.ibb.co/JR3wWbv/backend-expense.png" width="100%" alt="Proyecto BackEnd Django Expense Manager">
+    <a href="https://i.postimg.cc/MHPDt7Y1/6.png" target="_blank">
+      <img src="https://i.postimg.cc/MHPDt7Y1/6.png" width="100%" alt="Proyecto BackEnd Django Expense Manager">
     </a>
     <p>
       <a href="https://github.com/MarcoAntonioSantiagoHz/BackEnd-Python-Django-Expense-Manager" target="_blank">
