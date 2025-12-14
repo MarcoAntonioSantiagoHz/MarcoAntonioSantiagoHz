@@ -197,7 +197,7 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
   <td width="50%" valign="top" align="center">
     <h3>Proyecto FrontEnd Expense Manager</h3>
     <a href="frontend-expense.png" target="_blank">
-      <img src="frontend-expense.png" width="100%" alt="Proyecto FrontEnd Expense Manager">
+      <img src="https://drive.google.com/file/d/1gJvGxN7x4es-4XPWl7Ay9JeGCra3IKf1/view?usp=drive_link" width="100%" alt="Proyecto FrontEnd Expense Manager">
     </a>
     <p>
       <a href="https://github.com/MarcoAntonioSantiagoHz/FrontEnd-Expense-Manager" target="_blank">
