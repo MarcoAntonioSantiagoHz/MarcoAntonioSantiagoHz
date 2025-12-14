@@ -188,6 +188,40 @@ Hola, soy Marco Antonio, desarrollador apasionado por la programación y la tecn
     </td>
     <td width="50%" valign="top" align="center">&nbsp;</td>
   </tr>
+
+
+  <!-- Fila 5 -->
+<tr>
+  <td width="50%" valign="top" align="center">
+    <h3>Proyecto FrontEnd Expense Manager</h3>
+    <a href="frontend-expense.png" target="_blank">
+      <img src="frontend-expense.png" width="100%" alt="Proyecto FrontEnd Expense Manager">
+    </a>
+    <p>
+      <a href="https://github.com/MarcoAntonioSantiagoHz/FrontEnd-Expense-Manager" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>
+      Aplicación Frontend para gestionar gastos y pagos de manera intuitiva, interactuando con una API para la gestión de transacciones.
+    </p>
+  </td>
+  <td width="50%" valign="top" align="center">
+    <h3>Proyecto BackEnd Python Django Expense Manager</h3>
+    <a href="backend-expense.png" target="_blank">
+      <img src="backend-expense.png" width="100%" alt="Proyecto BackEnd Django Expense Manager">
+    </a>
+    <p>
+      <a href="https://github.com/MarcoAntonioSantiagoHz/BackEnd-Python-Django-Expense-Manager" target="_blank">
+        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>
+      Backend desarrollado en Django con Django REST Framework y SQL Server para registrar y gestionar gastos y pagos de una empresa. Incluye API, modelos, serializadores y servicios de negocio.
+    </p>
+  </td>
+</tr>
+
 </table>
 
 
